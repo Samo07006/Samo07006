@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Samo , I am python programmer
+Hello my name is Samo , I am python/django programmer
 
 
 # 💻 Tech Stack:
